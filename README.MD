@@ -1,6 +1,8 @@
 Jsstitcher is a simple tool to merge multiple javascript files into one single file.
 
-It works like a C++ preprocessor on Javascript files:
+It works like a C++ preprocessor on Javascript files.
+
+![Explanatory image](./media/explanation.png)
 
 # Install & Execute
 Installation is not necessary
